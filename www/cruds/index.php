@@ -72,6 +72,8 @@
               <th>Nombre</th>
               <th>Película</th>
               <th>Actor de doblaje</th>
+              <th></th>
+              <th></th>
             </tr>
 
             <?php
@@ -136,6 +138,8 @@
               <th>Nombre</th>
               <th>Año</th>
               <th>Puntuación</th>
+              <th></th>
+              <th></th>
             </tr>
 
             <?php
